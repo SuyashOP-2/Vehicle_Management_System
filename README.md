@@ -1,6 +1,4 @@
-Git Clone Repo
+git clone <repo-url>
 cd client
-npm install 
+npm install
 npm run dev
-
-For Login -> username === "admin" && password === "1234"
