@@ -1,8 +1,8 @@
-git clone <repo-url> 
+git clone https://github.com/SuyashOP-2/Vehicle_Management_System.git 
 
 cd client
 
-npm install
+npm install 
 
 npm run dev
 
